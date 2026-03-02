@@ -11,7 +11,6 @@ Download the latest release for your platform from the [Releases](../../releases
 | Platform | Binary |
 |---|---|
 | Linux x86_64 | `rust-diags-linux-x86_64` |
-| macOS Intel | `rust-diags-macos-x86_64` |
 | macOS Apple Silicon | `rust-diags-macos-aarch64` |
 | Windows x86_64 | `rust-diags-windows-x86_64.exe` |
 
